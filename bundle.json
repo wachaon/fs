@@ -1,20 +1,20 @@
 {
-  "{5F027B17-16A5-4FB9-AAD3-CC816AA7CF46}": {
-    "source": "{\n  \"name\": \"@wachaon/fs\",\n  \"version\": \"0.0.1\",\n  \"description\": \"Filesystem module alias\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [\n    \"wes\",\n    \"fs\"\n  ],\n  \"author\": \"wachaon\",\n  \"license\": \"MIT\"\n}\n",
+  "{271035F4-6281-4175-8CF9-59E531F49E5D}": {
+    "source": "{\n  \"name\": \"@wachaon/fs\",\n  \"version\": \"0.0.1\",\n  \"description\": \"Filesystem module alias\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [\n    \"wes\",\n    \"fs\"\n  ],\n  \"author\": \"wachaon\",\n  \"license\": \"MIT\"\n}",
     "mapping": {},
     "path": "{fs}/package.json"
   },
-  "{A1700A25-AB71-46FA-AF9B-2A3A550AD2C1}": {
+  "{697D1D44-FB69-477E-87A4-8B8AEB9D0276}": {
     "source": "module.exports = require('filesystem')",
     "mapping": {},
     "path": "{fs}/index.js"
   },
-  "{CA42A92C-9A20-4CC8-BBA0-B7A997CC8191}": {
+  "{0EC93520-896E-4F71-BD46-B2741D68BE1A}": {
     "source": "MIT License\r\n\r\nCopyright (c) 2023 wachaon\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy\r\nof this software and associated documentation files (the \"Software\"), to deal\r\nin the Software without restriction, including without limitation the rights\r\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\r\ncopies of the Software, and to permit persons to whom the Software is\r\nfurnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all\r\ncopies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\r\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\r\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\r\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\r\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\r\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\r\nSOFTWARE.\r\n",
     "mapping": {},
     "path": "{fs}/LICENSE"
   },
-  "{31FD413B-D58E-4AD5-90FD-CAEE669734AD}": {
+  "{09DA64E8-2348-4678-A27B-69862B838D0B}": {
     "source": "# fs\r\nFilesystem module alias\r\n",
     "mapping": {},
     "path": "{fs}/README.md"
